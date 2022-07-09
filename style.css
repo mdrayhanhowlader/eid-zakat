@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+.header {
+    background-image: url('images/donation5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .8;
+    padding-bottom: 120px;
+}
+
+.header h1 {
+    font-size: 40px;
+    padding: 150px 0px 30px 80px;
+    font-weight: 900;
+    color: rgb(0, 0, 0);
+}
+
+.header p {
+    font-size: 16px;
+    padding: 5px 0px 30px 80px;
+    font-weight: 600;
+    color: rgb(253, 28, 186);
+}
+
+.btn {
+    margin-left: 80px;
+    font-size: 18px;
+    background-image: linear-gradient(tomato, rgb(231, 23, 23));
+    color: whitesmoke;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.explore {
+    display: flex;
+    padding: 100px;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width h1{
+    font-size: 40px;
+    padding-top: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.half-width p {
+    margin-top: 20px;
+    font-size: 14px;
+    color: rgb(81, 85, 85);
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.btn-explore {
+    margin-left: 0;
+}
+
+.video {
+   width: 85%;
+}
+
+.half-width img {
+    width: 85%;
+}
+
+.system>h1,
+.system>p {
+    text-align: center;
+}
+
+.system> h1 {
+    font-size: 40px;
+    padding: 20px;
+    font-weight: 900;
+}
+
+.system>p {
+    font-size: 18px;
+    color: rgb(129, 126, 126);
+    font-weight: 600;
+    padding: 20px 0px 40px 0px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 120px;
+}
+
+.left,
+.right {
+    width: 50%;
+    margin: 0px 60px;
+    text-align: justify;;
+    background-color: rgba(248, 229, 142, 0.678);
+    padding: 30px;
+}
+
+.img {
+    
+}
+
+.info h3 {
+    font-size: 24px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+
+.info p {
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(110, 111, 112);
+    padding-top: 20px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-around;
+    padding: 150px 120px;
+}
+
+.banner img {
+    width: 32%;
+    border-radius: 15px;
+}
+
+.card-area>h1,
+.card-area>p {
+    text-align: center;
+    padding: 20px;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+.card {
+    width: 30%;
+    padding: 0px 0px 40px 0px;
+    margin: 5px 40px;
+    border: 1px solid rgba(211, 211, 211, 0.644);
+    border-radius: 5px;
+}
+
+.card img {
+    width: 100%;
+}
+.card h3 {
+    padding: 10px;
+}
+
+.card p {
+    text-align: justify;
+    padding: 10px;
+}
+
+.card a {
+    display: inline-block;
+    text-decoration: none;
+    color: tomato;
+    border-bottom: 1px solid tomato;
+    margin: 10px;
+    font-weight: 700;
+}
+
+footer {
+    padding: 40px;
+    text-align: center;
+    background-color: rgb(12, 12, 29);
+}
+
+footer h5 {
+    color: rgb(243, 182, 182);
+    font-size: 30px;
+    font-weight: 900;
+    padding: 20px;
+}
+
+footer p {
+    font-size: 20px;
+    color: blanchedalmond;
+}
