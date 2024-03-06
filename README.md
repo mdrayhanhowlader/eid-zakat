@@ -1,1 +1,1 @@
-# eid-zakat
+# Eid - Zakat Donation website for humanity
